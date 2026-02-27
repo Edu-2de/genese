@@ -5,7 +5,7 @@ This project is a personal milestone. It started as a simple experiment and is n
 ## Evolution
 
 * **v1**: The very first version, built using only basic HTML.
-* **v2**: The current version, rebuilt from scratch with Next.js and PostgreSQL.
+* **v2**: The current version, rebuilt from scratch with Next.js .
 * **v3**: Planned for the future with more features and improvements.
 
 ## Tech Stack
